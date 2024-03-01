@@ -22,11 +22,9 @@
 [<img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logo=headhanter&logoColor=white" alt="hhRu"/>](https://hh.ru/resume/c9b485edff0ce011750039ed1f4e6348654c4b?hhtmFrom=resume_list")
 
 <br>
-<br>
-<br>
 
-#### 👀 Мои проекты:
-- многостраничная верстка <a href="https://github.com/kantor07/BRANDshop" target="_blank" ><img src="https://img.shields.io/badge/BAND-pinc?style=for-the-badge&logo=telegram&logoColor=white" alt="BAND"/></a>
+👀 Мои учебные проекты:
+- многостраничная верстка <a href="https://github.com/kantor07/BRANDshop" target="_blank" ><img src="https://img.shields.io/badge/BRAND-pink" alt="BAND"/></a>
 
 
 ---
