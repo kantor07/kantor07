@@ -51,6 +51,6 @@
 
 ---
 #### :fire: Моя статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValentinaSaraeva&theme=vue&locale=ru&exclude_days=Mon&stroke=89EBE5)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kantor07&theme=vue&locale=ru&exclude_days=Mon&stroke=89EBE5)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaSaraeva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kantor07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
