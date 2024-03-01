@@ -25,6 +25,10 @@
 <br>
 <br>
 
+#### 👀 Мои проекты:
+- многостраничная верстка <a href="https://github.com/kantor07/BRANDshop" target="_blank" ><img src="https://img.shields.io/badge/BAND-pinc?style=for-the-badge&logo=telegram&logoColor=white" alt="BAND"/></a>
+
+
 ---
 #### :hammer_and_wrench: СТЕК:
 <div>
