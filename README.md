@@ -26,8 +26,13 @@
 👀 Мои учебные проекты:
 - многостраничная верстка <a href="https://github.com/kantor07/BRANDshop" target="_blank" ><img src="https://img.shields.io/badge/BRAND-pink" alt="BAND"/></a>
 
+<br>
+<br>
+
 :zap: Мои pet-проекты
 - многостраничная верстка <a href="https://github.com/kantor07/shopCo" target="_blank" ><img src="https://img.shields.io/badge/ShopCo-grey" alt="ShopCo"/></a>
+
+<br>
 
 ---
 #### :hammer_and_wrench: СТЕК:
