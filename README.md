@@ -27,6 +27,8 @@
 - многостраничная верстка <a href="https://github.com/kantor07/BRANDshop" target="_blank" ><img src="https://img.shields.io/badge/BRAND-pink" alt="BAND"/></a>
 
 <br>
+- лендинг <a href="https://github.com/kantor07/SendIt" target="_blank" ><img src="https://img.shields.io/badge/SendIt-blue" alt="SendIt"/></a> 
+<br>
 <br>
 
 :zap: Мои pet-проекты
